@@ -84,11 +84,7 @@ def voice_to_text():
     )
     submit_button.grid(row=1, column=2, padx=40, pady=(10, 10))
     
-    # submit_btn = Button(
-    #     vt, text="submit", font=("arial", "20", "bold",), command=lambda:  voice_totext()
-
-    # )
-    # submit_btn.grid(row=4, column=2, padx=0, pady=(10, 10))
+    
 
     Transcription=Label(vt,text='',font=("arial", "12", "",),wraplength=400, justify=LEFT,bg='#0CC75E',fg='black')
     Transcription.grid(row=2,column=0,columnspan=4, padx=10,pady=(10, 10))
