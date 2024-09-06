@@ -1,1 +1,1 @@
-This is a simple app to convert voice to text and text to voice.
+This is a simple app to convert voice to text and text to voice with tkinter module
