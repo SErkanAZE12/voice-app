@@ -17,3 +17,11 @@
 
 
 (this part convert voice to text)
+
+
+
+![Screenshot (275)](https://github.com/user-attachments/assets/8124d848-2047-4ee5-8066-d5d2de12dab7)
+
+
+
+(RESULT)
